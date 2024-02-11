@@ -168,17 +168,17 @@ bottom: 40px;
 
 }
 
-.images:hover .girl{
+.images:hover .boy{
 
 
 left: 45%;
 
 }
-.images img.girl {
+.images img.boy {
   height: 110%; /* Adjust this percentage to increase or decrease the size */
   position: absolute;
   left: 50%;
-  bottom: 220px;
+  bottom: 150px;
   transform: translateX(-50%);
   transition: bottom 1s, left 1s;
 }
